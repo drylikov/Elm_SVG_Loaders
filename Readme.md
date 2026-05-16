@@ -1,3 +1,35 @@
 # Elm SVG Loaders.
 
 SVG loading indicators for Elm, by [Sam Herbert](https://github.com/SamHerbert/SVG-Loaders).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
