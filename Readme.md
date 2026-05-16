@@ -47,4 +47,3 @@ SVG loading indicators for Elm, by [Sam Herbert](https://github.com/SamHerbert/S
 
 
 
-
